@@ -1,37 +1,19 @@
-# MaixuanZhang7-web的博客
+# MaxZ-_-（[@maixuanzhang7-web](https://github.com/maixuanzhang7-web)）的博客
 
 > 涓滴之水终可以磨损大石，不是由于它力量强大，而是由于昼夜不舍的滴坠。**——贝多芬**
 
 ![](./assets/fdd1eaf50e174e9480c13003f225ac733210596e.png)
 
-~~（*听说给我视频一键三连的人期末都能进步1145.14%*）~~ 
+## 导航
 
-作者B站：[MaxZ-_-的个人空间-MaxZ-_-个人主页-哔哩哔哩视频](https://space.bilibili.com/1512804294)
+- 作者文章：[我的文章](hao_post)
 
-![](./assets/2025-12-31-15-49-39-image.png)
+- 作者B站：[MaxZ--的个人空间-MaxZ--个人主页-哔哩哔哩视频](https://space.bilibili.com/1512804294) 
+  
+  ~~（*听说给我视频一键三连的人期末都能进步1145.14%*）~~
 
----
+## 代表作
 
-## 我的文章My Posts
+[噩梦开始的地方——2345加速浏览器v1.5版本体验_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ccwpebEH2/?spm_id_from=333.999.0.0)
 
-## 目录Contents
-
-- [2026年](#2026年)
-
-- [2025年](#2025年)
-
-## 2026年
-
-### [Hello,2026! Goodbye,2025!](./posts/2)
-
-2026年1月10日
-
-> Hello 2026！Hello! My blog!
-
-## 2025年
-
-### [《钢铁是怎样炼成的》读书分享 ](./posts/1)
-
-2025年6月3日
-
-> “钢是在烈火中燃烧，然后经过高度冷却后炼成的，因此它非常坚固。我们这一代人也是在残酷的斗争和艰苦的考验中锻炼出来的，并且学会了不向生活灰心，不向命运低头”
+[第一个基于IE内核的国产浏览器？MyIE浏览器3.2体验（后附MyIE+Windows 98体验）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1CTfhY1EdM/?spm_id_from=333.999.0.0)
