@@ -14,6 +14,12 @@
 
 ## 我的文章My Posts
 
+## 2026年
+
+### [Hello,2026! Goodbye,2025!](./posts/3)
+
+> Hello 2026！Hello! My blog!
+
 ## 2025年
 
 ### [《钢铁是怎样炼成的》读书分享 ](./posts/1)
