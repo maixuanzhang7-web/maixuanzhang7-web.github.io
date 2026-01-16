@@ -1,0 +1,153 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: auto;
+    background-image: url("img1.png");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: #747474
+}
+
+.content {
+    margin: auto;
+    max-width: 1024px;
+    /*position: relative;*/
+
+
+    background-color: rgba(255, 255, 255, 0.808);
+    padding: 20px;
+}
+
+.content p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.inf {
+    border-top: 1px solid rgb(201, 201, 201);
+    border-bottom: 1px solid rgb(201, 201, 201);
+    padding: 0 16px;
+}
+
+.inf p {
+    color: rgba(78, 78, 78, 0.623);
+}
+
+.content code {
+    font-family: 'Consolas';
+    margin-left: 50px;
+}
+
+.content img {
+    margin: auto;
+}
+
+
+
+.navbar {
+    background-color: rgb(228, 228, 228);
+    padding: 10px;
+    position: fixed;
+    width: 100%
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.navbar ul li a {
+    /* color: blue;
+    font-family: 'StKaiti','SimHei';*/
+    max-width: 100%;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.navbar img {
+    max-width: 60%;
+    min-width: none;
+}
+
+a:link {
+    color: royalblue;
+}
+
+a:visited {
+    color: royalblue;
+}
+
+a:hover {
+    color: rgb(88, 180, 255);
+
+}
+
+a:active {
+    color: rgb(103, 187, 255);
+}
+
+.cd {}
+
+.cd ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 400px;
+    background-color: #f1f1f1;
+}
+
+.cd li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* 鼠标移动到选项上修改背景颜色 */
+
+.cd li a:hover {
+    background-color: #c4bebe;
+    color: blue;
+}
+
+
+
+
+img {
+    margin: auto;
+    max-width: 90%;
+    min-width: none;
+    border-radius: 15px 15px 15px 15px;
+
+}
+
+video {
+    max-width: 100%;
+    min-width: none;
+}
+
+pre {
+    background-color: aliceblue;
+    border-right: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    border-top: 1px solid #000;
+    margin-left: 10px;
+    border-left: 1px solid #000;
+}
+
+
+blockquote {
+    color: gray;
+    margin-left: 16px;
+    margin-right: 16px;
+    padding: 0 16px;
+    border-left: 3px grey solid;
+}
