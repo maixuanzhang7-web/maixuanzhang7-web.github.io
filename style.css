@@ -96,7 +96,6 @@ a:active {
 
 .cd ul {
     position: fixed;
-    list-style-type: none;
     margin: 0;
     padding: 0;
     width: 40px;
@@ -116,8 +115,6 @@ a:active {
     background-color: #c4bebe;
     color: blue;
 }
-
-
 
 
 img {
