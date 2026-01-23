@@ -10,7 +10,7 @@
 <body>
     <p>在当前页面后加上"home.html"有惊喜哦~</p>
     <div class="content">
-        <script>
+        <!--script>
             var name = prompt("现代计算机结构的奠基人是谁？", "Enter code");
             if(name != "冯·诺依曼" || name!="冯诺依曼"|| name!="Von Neumann") {
                 alert("回答错误，无法进入博客首页！");
@@ -20,8 +20,14 @@
                 window.location.href = "home.html";
 
             }
-        </script>
-
+        </script-->
+        <p>谁是现代计算机结构的奠基人？</p>
+        <form action="home.html" method="get">
+            <input type="radio" name="answer" value="冯·诺依曼"> 冯·诺依曼<br>
+            <input type="radio" name="answer" value="图灵"> 图灵<br>
+            <input type="radio" name="answer" value="爱因斯坦"> 爱因斯坦<br>
+            <input type="submit" value="提交">
+        </form>
     </div>
 
 

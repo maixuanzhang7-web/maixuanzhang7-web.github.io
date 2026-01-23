@@ -9,10 +9,8 @@ body {
 
 .content {
     margin: auto;
-    max-width: 1024px;
+    max-width: 720px;
     /*position: relative;*/
-
-
     background-color: rgba(255, 255, 255, 0.808);
     padding: 20px;
 }
@@ -97,10 +95,11 @@ a:active {
 .cd {}
 
 .cd ul {
+    position: fixed;
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 400px;
+    width: 40px;
     background-color: #f1f1f1;
 }
 
