@@ -92,11 +92,12 @@ a:active {
     color: rgb(103, 187, 255);
 }
 
-.cd {}
+.cd {
+}
 
 .cd ul {
-    position: fixed;
-    margin: 0;
+     position: fixed;
+    list-style-type: none;
     padding: 0;
     width: 40px;
     background-color: #f1f1f1;
@@ -146,4 +147,11 @@ blockquote {
     margin-right: 16px;
     padding: 0 16px;
     border-left: 3px grey solid;
+}
+
+@media (max-width: 720px) {
+    .content {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
 }
